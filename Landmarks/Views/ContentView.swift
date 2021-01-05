@@ -22,9 +22,9 @@ struct ContentView: View {
                 Text("Leninsky prospekt")
                     .font(.title)
                 HStack {
-                    Text("Major avenue in Moscow")
+                    Text("Major avenue")
                     Spacer()
-                    Text("Russia")
+                    Text("Moscow")
                         
                 }
                 .font(.subheadline)
